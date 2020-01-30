@@ -4,6 +4,7 @@ A small list for (web) projects which use bavarian dialect predominantly or offe
 
 ## Websites
 
+* [Bairisches Wörterbuch](https://www.bayrisches-woerterbuch.de/)
 * [Boarische Wikipedia](https://bar.wikipedia.org/wiki/Hoamseitn)
 * [Feuerwehr Eisolzried](https://feuerwehr-eisolzried.de/)
 * [Los Brudalos](https://losbrudalos.de/)
